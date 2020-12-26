@@ -1,1 +1,1 @@
-# UnityBasic
+This is a basic unity project for taking inputs from keyboards for navigations.
